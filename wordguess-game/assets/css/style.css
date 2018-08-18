@@ -1,0 +1,59 @@
+.header{
+    color: #D72929; 
+    text-align: center;
+    height: 260px;
+    border-bottom: dashed;
+    border-bottom-width: 10px;
+    border-bottom-color: black
+    
+}
+
+
+
+.container{ border: dashed;
+            border-width: 10px;
+            padding: 0px;
+            align-content: center;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: white;
+            font-family: 'Schoolbell', cursive;
+            font-size: 30px;
+
+}
+
+#header-image{ width: 200px;
+                height: 200px;
+                
+}
+#blankboyz{ width: 300px;
+            height: 400px;
+            margin-left: 70px;
+            margin-bottom: 50px;
+            padding: 0px;
+
+}
+.header h2 {
+            position: relative;
+            padding: 2px;
+            margin-top: 0px;
+            height: 200px;
+            font-family: 'Sedgwick Ave Display', cursive;
+            font-size: 50px;
+            color: black
+            
+            
+            
+            
+            
+}
+.header h4 {
+    font-family: 'Sedgwick Ave Display', cursive;
+   
+    
+    
+}
+
+.body{
+    background-color: #D72929;
+}
+
